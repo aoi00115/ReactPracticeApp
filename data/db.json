@@ -1,0 +1,34 @@
+{
+  "quotes": [
+    {
+      "userId": 1,
+      "id": 1,
+      "author": "Hades",
+      "quote": "When freaky aliens give you lemons, make freaky alien lemonade."
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "author": "Satoru Iwata",
+      "quote": "On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer."
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "author": "Velvet Crowe",
+      "quote": "Birds fly because they want to fly. They don’t need a reason. Even if their wings may snap and doom them to die. They don’t fly for anyone’s benefit. They don’t fly because they were ordered to. Birds fly because they want to fly and for no other reason!"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "author": "Ging Freecss",
+      "quote": "You Should Enjoy The Little Detours To The Fullest. Because That's Where You'll Find The Things More Important Than What You Want."
+    },
+    {
+      "user": "2",
+      "author": "Darkwing Duck",
+      "quote": "I am the terror that flaps in the night!",
+      "id": 5
+    }
+  ]
+}
